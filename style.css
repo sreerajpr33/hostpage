@@ -146,9 +146,4 @@
         max-height:20vh;
         /* background-color: blue; */
     }
-    .footer-column {
-        min-width: 100%;
-        margin: 0;
-        padding: 0 10px;
     }
-}
